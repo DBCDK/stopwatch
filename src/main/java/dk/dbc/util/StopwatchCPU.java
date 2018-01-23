@@ -37,7 +37,7 @@ public class StopwatchCPU {
     }
 
     /**
-     * Gets the elapsed CPU time since this {@link Stopwatch} was initialized
+     * Gets the elapsed CPU time since this {@link StopwatchCPU} was initialized
      * or last reset
      * @param unit unit of elapsed time granularity
      * @return elapsed time in specified granularity
